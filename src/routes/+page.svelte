@@ -37,5 +37,5 @@
 </div>
 
 <div class="h-screen flex items-center justify-center">
-	<img src={bigFishTrouble} alt="BIG TROUBLE" class="w-72 h-auto" />
+	<img src={bigFishTrouble} alt="BIG TROUBLE" class="w-56 xs:w-56 sm:w-56 md:w-72 h-auto" />
 </div>
